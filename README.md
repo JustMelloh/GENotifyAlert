@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 <hr>
-<p>Creating a notifier for whenever an Item you searched and selected reaches a certain threshold (Data pulled from wiki).
+<p>Creating a notifier for whenever an Item you searched and selected reaches a certain threshold (Data pulled from wiki).<br>
 Also shows:<br>
 HA Value<br>
 Buy Limit<br>
